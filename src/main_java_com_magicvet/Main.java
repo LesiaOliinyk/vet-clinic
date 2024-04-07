@@ -4,7 +4,7 @@ import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Main {
-    static String PASSWORD = "default";
+    static String PASSWORD = "defaul";
     static Scanner SCANNER = new Scanner (System.in);
     public static void main(String[] args) {
 
