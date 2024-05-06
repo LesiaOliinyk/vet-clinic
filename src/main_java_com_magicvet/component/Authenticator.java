@@ -3,7 +3,7 @@ package main_java_com_magicvet.component;
 import main_java_com_magicvet.Main;
 
 public class Authenticator {
-    private static String PASSWORD = "d";
+    private static final String PASSWORD = "d";
     public static boolean auth () {
         boolean accepted = false;
         for (int i = 0; i < 3; i++) {
